@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**SindacatoGiallo/SindacatoGiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Davide aka SindacatoGiallo 👋
 
-Here are some ideas to get you started:
+## I'm a Saleforce Admin turned Developer. I'm also a mead maker but more on that later on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming a **Salesforce Architect**
+- 🌱 I’m currently learning [**Apex**],[**Python**] and basics of [**WebDevelopment**].
+- 💬 Ask me about [**anything Salesforce**]
+- 😄 Pronouns: [**He/Him**]
+- ⚡ Fun fact: [**I'm also a mead maker and I aim to use IoT devices in brewing**]
+
+## Connect with me:
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/davidetansini)
+
+
+## Languages and Tools:
+
+- **Apex**
+- **Java**
+- **Python**
+- **HTML&CSS**
+- **JavaScript**
+
+
+
+## 📊 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+Not a lot so far :D 
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord)
