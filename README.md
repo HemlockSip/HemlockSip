@@ -4,7 +4,7 @@
 ## I'm a Saleforce Admin turned Developer. I'm also a mead maker but more on that later on 
 
 - 🔭 I’m currently working on becoming a **Salesforce Architect**
-- 🌱 I’m currently learning [**Apex**],[**Python**] and basics of [**WebDevelopment**].
+- 🌱 I’m currently learning [**Apex**],[**JavaScript**] with a lot of focus on [**React**].
 - 💬 Ask me about [**anything Salesforce**]
 - 😄 Pronouns: [**He/Him**]
 - ⚡ Fun fact: [**I'm also a mead maker and I aim to use IoT devices in brewing**]
