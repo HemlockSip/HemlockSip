@@ -1,8 +1,7 @@
 
-# Hi there, I'm Davide aka SindacatoGiallo 👋
+# Hi there, I'm Davide aka HemlockSip 👋
 
-## I'm a Saleforce Admin turned Developer. I'm also a mead maker but more on that later on 
-
+## I'm a Saleforce Admin turned Developer.
 - 🔭 I’m currently working on becoming a **Salesforce Architect**
 - 🌱 I’m currently learning [**Apex**],[**JavaScript**] with a lot of focus on [**React**].
 - 💬 Ask me about [**anything Salesforce**]
