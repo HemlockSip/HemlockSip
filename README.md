@@ -25,7 +25,7 @@
 
 ## 📊 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sindacatogiallo&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HemlockSip&show_icons=true&theme=radical)
 
 Not a lot so far :D 
 
