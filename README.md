@@ -17,9 +17,11 @@
 
 - **Apex**
 - **Java**
-- **Python**
-- **HTML&CSS**
 - **JavaScript**
+- **React**
+- **Next.js**
+- **HTML&CSS**
+- **Python**
 
 
 
