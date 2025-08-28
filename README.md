@@ -33,9 +33,9 @@ WIP
 
 ## 📜 Salesforce Certifications
 - Application Architect
-- Platform Developr II
+- Platform Developer II
 - Data Architect
 - Sharing & Visibility Architect
-- Platform Developr I
+- Platform Developer I
 - Platform App Builder
 - Administrator
