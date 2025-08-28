@@ -3,7 +3,7 @@
 ## Salesforce Admin turned Developer, on a journey to become a Salesforce Architect
 
 - 🔭 I'm currently working as a Salesforce CRM Engineer 
-- 🌱 I'm learning **Apex**, **JavaScript**, **React**, and **Next.js** to enhance my Salesforce development skills
+- 🌱 I'm learning **Apex**, **Python** and **Next.js** to enhance my Salesforce development skills
 - 💬 Ask me about anything Salesforce - I'm always happy to chat!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a mead maker exploring IoT applications in brewing
